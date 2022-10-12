@@ -452,7 +452,7 @@ button {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .portfolio-link:hover .portfolio-top-text,
-.portfolio-link:hover .portfolio-top-text {
+.portfolio-link:focus .portfolio-top-text {
   transform: translateY(0);
 }
 .portfolio-text-box {
